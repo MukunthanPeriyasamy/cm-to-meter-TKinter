@@ -20,9 +20,6 @@ cm.config(pady=10)
 input = Entry(width=10)
 input.grid(column= 0,row=1)
 
-
-
-
 output = Label(text="is equal to 0 m:")
 output.grid(column = 0,row=3)
 
